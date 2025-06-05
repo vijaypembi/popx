@@ -3,7 +3,7 @@ import { useNavigate } from "react-router-dom";
 const Welcome = () => {
     const navigate = useNavigate();
     return (
-        <div className="flex items-center justify-center h-screen w-screen">
+        <div className="flex items-center justify-center  h-screen w-screen">
             <div
                 className="flex flex-col items-center justify-end p-3
                h-screen w-full max-w-[400px]
