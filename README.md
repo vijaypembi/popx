@@ -1,6 +1,6 @@
 ### PopX
 
-## PopX is a React-based web app with Tailwind CSS styling, featuring a centered box layout with max-width and padding for a clean and responsive UI.
+PopX is a React-based web app with Tailwind CSS styling, featuring a centered box layout with max-width and padding for a clean and responsive UI.
 
 ### Table of Contents
 
@@ -14,7 +14,7 @@ Usage
 
 ### Overview
 
-## PopX is designed to provide a seamless, stylish user experience using React and Tailwind CSS. The layout is centered with a maximum width and padding to avoid full-page expansion.
+PopX is designed to provide a seamless, stylish user experience using React and Tailwind CSS. The layout is centered with a maximum width and padding to avoid full-page expansion.
 
 ### Features
 
