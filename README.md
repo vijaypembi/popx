@@ -32,6 +32,12 @@ Tailwind CSS
 
 ---
 
+### Live URL
+
+[https://projectpopx.netlify.app/](https://projectpopx.netlify.app/)
+
+---
+
 ### Installation
 
 1. Clone the repository:
